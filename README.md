@@ -32,6 +32,8 @@
 ```
 ![image](https://github.com/user-attachments/assets/c08618b4-cba8-4556-a8bf-8f154240ea92)
 
+---
+
 ### 입, 출금
 ```
 1만원, 3만원, 5만원 버튼을 클릭 시 입/출금이 됩니다.
@@ -39,13 +41,12 @@
 원하는 금액을 직접 입력하여 입/출금이 가능힙니다
 ```
 
-
 ![image](https://github.com/user-attachments/assets/3332c25d-fb8a-4205-9b03-11988931c647)
 ![image](https://github.com/user-attachments/assets/18934e2b-b2f9-409e-aa51-c2c9207cafb3)
 
 ---
 
-### 입, 출금
+### 에러창
 ```
 보유 현금, 잔고 보다 적거나 많은 금액을 입력 시 오류 메시지가 발생합니다.
 ```
